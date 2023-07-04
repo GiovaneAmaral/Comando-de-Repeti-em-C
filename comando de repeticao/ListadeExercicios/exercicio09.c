@@ -1,0 +1,1 @@
+/*Fa ̧ca um programa que leia um n ́umero e verifique se ele  ́e primo ou n ̃ao.*/
